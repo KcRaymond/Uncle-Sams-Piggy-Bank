@@ -4,7 +4,7 @@
 
 ## Description:
 
-## Coding project to develop an app to allow a user to modify the federal budget by changing the percentage of collected taxes and change federal department expenses to see if they can do a better job at balancing the federal budget than the government. Budget info was collected from the federal budget website for 2020.
+Coding project to develop an app to allow a user to modify the federal budget by changing the percentage of collected taxes and change federal department expenses to see if they can do a better job at balancing the federal budget than the government. Budget info was collected from the federal budget website for 2020.
 
 > ## Table of Contents
 
