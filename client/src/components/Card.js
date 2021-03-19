@@ -1,13 +1,10 @@
 import React, { useState, useEffect } from "react";
 import InputAdornment from "@material-ui/core/InputAdornment";
 import TextField from "@material-ui/core/TextField";
-import Login from "../components/Login/index";
 import History from "../utils/history";
 import API from "../utils/API";
-import NumberFormat from "react-number-format";
 import Numeral from "numeral";
 import Divider from "@material-ui/core/Divider";
-import Paper from "@material-ui/core/Paper";
 
 function Card({ question }) {
   const [answers, setAnswers] = useState([]);

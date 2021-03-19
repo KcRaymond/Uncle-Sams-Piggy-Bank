@@ -3,8 +3,6 @@ import USPB_LOGO from "../images/USPB_LOGO.png";
 import Card from "../components/Card";
 import "./App.css";
 import API from "../utils/API";
-import Login from "../components/Login/index";
-import History from "../utils/history";
 
 function Question() {
   const [questions, setQuestions] = useState([]);

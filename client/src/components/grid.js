@@ -1,7 +1,4 @@
 import * as React from "react";
-import { DataGrid } from "@material-ui/data-grid";
-import Login from "../components/Login";
-import Logout from "../components/Logout";
 import "./App.css";
 import Numeral from "numeral";
 import Table from "@material-ui/core/Table";

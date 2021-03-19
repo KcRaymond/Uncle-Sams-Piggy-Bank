@@ -25,7 +25,11 @@ function Home() {
         </div>
       </div>
       <button id="play">
-        <img src={PiggyBankBtn} onClick={reRoute} />
+        <img
+          src={PiggyBankBtn}
+          alt="Open Uncle Sams Piggy Bank"
+          onClick={reRoute}
+        />
       </button>
     </div>
   );
